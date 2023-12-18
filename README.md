@@ -6,3 +6,6 @@ This project demonstrates the Lottery Scheduling algorithm, a randomized process
  * Randomized Scheduling: The CPU scheduler picks a ticket at random, and the process holding that ticket is scheduled next.
  * Adaptability: Simple to assign and reallocate tickets according to process needs or system policies.
  * Fairness in Lottery Scheduling: Ensures an equitable distribution of opportunities (lottery tickets) among processes, preventing resource dominance and guaranteeing fair access to CPU time and system resources
+   Gantt Chart:
+| Round 1: P3 | Round 2: P2 | Round 3: P1 | Round 4: P2 | Round 5: P4 | Round 6: P5 | Round 7: P3 | Round 8: P5 | Round 9: P3 | Round 10: P1 |
+
